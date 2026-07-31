@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-viw0kj.date-me.pro/sitemap.xml
